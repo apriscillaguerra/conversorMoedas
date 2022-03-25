@@ -1,0 +1,71 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    background-image: url("https://cdn.pixabay.com/photo/2020/10/30/08/56/money-5698019_960_720.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #05b4cd;
+    background-size: auto;
+    background-position: center;
+    font-size: 18px;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+    font-size: 3rem;
+}
+
+.page-subtitle {
+    padding-top: 12px;
+    color: #ffffff;
+    margin-top: 5px;
+    font-size: 1.3rem;
+}
+
+
+input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+label {
+    color: #ffffff;
+    text-shadow: 2px 2px 1px black;
+    font-size: 1.4rem;
+}
+
+button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+    font-family: "Roboto Mono", monospace;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #ffb70d;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    text-shadow: 2px 2px 1px #ffffff;
+}
+
+select {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+    font-family: "Roboto Mono", monospace;
+    font-size: 1rem;
+}
